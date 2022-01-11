@@ -4,7 +4,6 @@
   import Services from '$lib/Services.svelte'
   import FAQ from '$lib/FAQ.svelte'
   import Locations from '$lib/Locations.svelte'
-  import Footer from '$lib/Footer.svelte'
 </script>
 
 <Hero />
@@ -12,4 +11,3 @@
 <Services />
 <FAQ />
 <Locations />
-<Footer />
