@@ -20,7 +20,7 @@
     border-width: 9px 0;
     border-style: solid;
     border-color: #001100;
-    background: url('superhero-tree-bkg-3.jpg') no-repeat center center/cover;
+    background: url('/bg.jpg') no-repeat center center/cover;
     overflow: hidden;
   }
   div {
