@@ -1,3 +1,10 @@
+<script>
+  import Video from '$lib/Video.svelte'
+  import Poster from '$lib/Poster.svelte'
+
+  let component = Poster
+</script>
+
 <section>
   <div>
     <h2>BuckTom Services, LLC</h2>
@@ -7,9 +14,9 @@
       landscaping company, specializing in tree removal, tree cutting, tree
       pruning services, and total lawn care in Asheville and Buncombe County.
     </p>
-    <video src="/" poster="https://img.youtube.com/vi/Ub_XSLg-eO8/0.jpg"
-      ><track kind="captions" /></video
-    >
+    <aside>
+      <svelte:component this={component} on:click={() => (component = Video)} />
+    </aside>
   </div>
 </section>
 
@@ -44,7 +51,7 @@
     font-size: 1.1rem;
     line-height: 1.5em;
   }
-  video {
+  aside {
     width: 800px;
     height: auto;
     display: block;
