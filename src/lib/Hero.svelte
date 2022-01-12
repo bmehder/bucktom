@@ -49,6 +49,5 @@
     height: auto;
     display: block;
     margin: 2rem auto;
-    /* padding-bottom: 56.25%; */
   }
 </style>

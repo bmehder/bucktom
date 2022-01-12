@@ -6,12 +6,10 @@
         Whenever you have a need for tree service or tree removal people often
         wonder how we come up with the complete tree removal cost.
       </p>
-
       <p>
         Because we offer free estimates, we come to your property, meet with
         you, and analyze your need for tree removal service.
       </p>
-
       <p>
         We will be looking at the amount of tree cutting or tree pruning work we
         will need to do to determine the cost of tree removal. The cost is
@@ -19,7 +17,6 @@
         and how long it will take to safely complete your job including complete
         cleanup of the affected area.
       </p>
-
       <p>
         You can expect a turnkey quote and agreed upon day to perform work
         unless weather forces us to reschedule by BuckTom Services, LLC.
@@ -33,19 +30,16 @@
         obtained by hiring a competent lawn care company with experience and
         well-trained employees.
       </p>
-
       <p>
         The lawn maintenance company must be insured and properly licensed. It
         is important that one of it’s landscapers holds a NC Pesticide License
         to ensure proper grass care and weed-free beds.
       </p>
-
       <p>
         A good company will know the proper grass cutting height for mowing.
         That company should also know fertilizer analysis, mulch depth, and
         quality edging methods.
       </p>
-
       <p>
         Commercial lawn care is a year-round service requiring seasonal
         attention for lawn mowing, shrub pruning, leaf removal, snow removal,
