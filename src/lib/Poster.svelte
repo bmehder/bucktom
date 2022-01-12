@@ -5,7 +5,7 @@
 
 <div>
   <img
-    src="https://img.youtube.com/vi/Ub_XSLg-eO8/0.jpg"
+    src="video.jpg"
     alt="Bucktom Video Poster"
     on:click
     out:fade={{ delay: 0, duration: 300, easing: sineInOut }}
